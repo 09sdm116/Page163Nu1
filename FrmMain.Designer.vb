@@ -102,7 +102,7 @@ Partial Class FrmMain
         Me.lstReceipt.Size = New System.Drawing.Size(357, 102)
         Me.lstReceipt.TabIndex = 7
         '
-        'Form1
+        'FrmMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -115,7 +115,7 @@ Partial Class FrmMain
         Me.Controls.Add(Me.lblItem)
         Me.Controls.Add(Me.btnBill)
         Me.Controls.Add(Me.btnRates)
-        Me.Name = "Form1"
+        Me.Name = "FrmMain"
         Me.Text = "Welcome to Eddie's Equipment Rental"
         Me.ResumeLayout(False)
         Me.PerformLayout()
